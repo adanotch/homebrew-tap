@@ -8,7 +8,7 @@ cask "adanotch@beta" do
   homepage "https://adanotch.com"
 
   auto_updates true
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "Adanotch.app"
 
