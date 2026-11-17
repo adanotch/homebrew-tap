@@ -1,6 +1,6 @@
 cask "adanotch" do
-  version "0.1.0-beta.22"
-  sha256 "ba36f7dee48cf2a98676b29b69fff04e9b2990776f628e561ba74f907df6c4b4"
+  version "0.1.0-beta.23"
+  sha256 "a5db04e10d40b46c4eec8777f70bd1a1b5066b9181c31780e0929d98963dbf36"
 
   url "https://download.adanotch.com/releases/Adanotch-#{version}.dmg"
   name "Adanotch"
